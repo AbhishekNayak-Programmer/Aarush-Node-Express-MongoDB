@@ -1,0 +1,12 @@
+1. Creating a Node.js backend project
+2. Working with File and Folder System in Terminal
+3. Working with terminal in vscode 
+4. Npm Introduction and Installation command
+5. Understanding package.json and package-lock.json
+6. Understanding versioning in package.json
+7. Installing express using npm
+8. Understanding Gitignore 
+9. Installing Git Bash and Working with it
+
+8. Creating a simple server using express
+9. API [Revision]
