@@ -1,0 +1,4 @@
+1. Creating a server using express
+2. Connect with MongoDB Database locally
+3. Storing Secret in ENV and using it 
+4. Creating multiple get routes
