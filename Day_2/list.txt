@@ -7,6 +7,3 @@
 7. Installing express using npm
 8. Understanding Gitignore 
 9. Installing Git Bash and Working with it
-
-8. Creating a simple server using express
-9. API [Revision]
