@@ -1,0 +1,7 @@
+1. GitHub Connection with Gitbash
+2. Create a server and connect to mongodb
+3. Uploading a user to database
+4. Creating a github repository
+5. uploading code to github repository
+6. updating code in github repository
+7. Creating a users schema 

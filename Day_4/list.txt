@@ -1,0 +1,4 @@
+1. Create a server and connect to mongodb 
+2. What is Schema and why its needed 
+3. Creating a User Model
+4. Revision - Doubts Clearing
