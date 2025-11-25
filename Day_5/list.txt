@@ -1,7 +1,9 @@
+1. Create Get/Post Routes in express
+2. Installing and using postman
+3. Uploading users to database using route
+
+// To be continued
 1. GitHub Connection with Gitbash
-2. Create a server and connect to mongodb
-3. Uploading a user to database
-4. Creating a github repository
-5. uploading code to github repository
-6. updating code in github repository
-7. Creating a users schema 
+2. Creating a github repository
+3. uploading code to github repository
+4. Updating code in github repository after some changes in code
