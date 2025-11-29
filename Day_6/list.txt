@@ -1,0 +1,14 @@
+1. Running a Node.js project using Nodemon
+2. Created Student Schema
+3. Using postman to send data to server and Uploading Student Data to DB  
+4. Getting all Users Data from DB using postman to see response
+5. CRUD Operation Explanation
+
+// To be continued
+1. Getting data of a single user
+2. Updating a single User 
+3. Deleting a single User
+4. GitHub Connection with Gitbash
+5. Creating a github repository
+6. uploading code to github repository
+7. Updating code in github repository after some changes in code
