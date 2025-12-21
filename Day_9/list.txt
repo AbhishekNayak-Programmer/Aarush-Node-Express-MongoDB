@@ -1,0 +1,15 @@
+// To be continued
+1. Updating a single User by id and fields
+2. Deleting a single User by id and fields
+3. Delete all users at once from Database
+4. Exception Handling TRY & CATCH
+5. Writing clean code by spliting code
+
+
+1. Creating a product collections
+2. Adding some products in the database
+3. Filtering the products
+4. GitHub Connection with Gitbash
+5. Creating a github repository
+6. uploading code to github repository
+7. Updating code in github repository after some changes in code
