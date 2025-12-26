@@ -1,0 +1,7 @@
+1. Filtering the products
+
+// To be continued
+2. GitHub Connection with Gitbash
+3. Creating a github repository
+4. uploading code to github repository
+5. Updating code in github repository after some changes in code
