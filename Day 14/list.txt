@@ -1,0 +1,5 @@
+1. Login Route created
+2. Signup route created
+3. Edit Route created
+4. Connected with Website UI for signup
+5. Users Schema Created
