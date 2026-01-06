@@ -1,5 +1,3 @@
-1. Question Routes created to get based on subtopic
-2. Question posting and storing in the database
-3. Updating the upvote and downvote and update 
-4. Update the reply to store username and message
-5. connected UI to backend
+1. Work on Notifications
+2. fixed Upvote and downvote functionality
+3. admin icon shown based on role
